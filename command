@@ -1,1 +1,0 @@
-go install update tools
